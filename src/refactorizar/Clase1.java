@@ -12,7 +12,7 @@ public class Clase1 {
     
     public static void main(String[] args) {
         
-        String nombre="Ruben DeLaTorre Serrano";
+        String nombre="Ruben DeLaTorre";
     
         System.out.println(nombre);
         
